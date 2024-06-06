@@ -1,3 +1,4 @@
+Write-Host "Mijn beste PowerShell script"
 Clear-Host
 Write-Host "╔════════════════════════════════════════╗" -ForegroundColor Red
 Write-Host "║" -ForegroundColor Cyan -NoNewline
