@@ -1,9 +1,9 @@
 Clear-Host
-Write-Host "╔════════════════════════════════════════╗" -ForegroundColor Cyan
+Write-Host "╔════════════════════════════════════════╗" -ForegroundColor Red
 Write-Host "║" -ForegroundColor Cyan -NoNewline
-Write-Host "        Beheermenu van Roy Phaff        " -ForegroundColor Green -NoNewline
+Write-Host "        Beheermenu van Roy Phaff        " -ForegroundColor Cyan -NoNewline
 Write-Host "║" -ForegroundColor Cyan
-Write-Host "╚════════════════════════════════════════╝" -ForegroundColor Cyan
+Write-Host "╚════════════════════════════════════════╝" -ForegroundColor Red
 Write-Host "Optie 1 : Datum en tijd "
 Write-Host "Optie 2 : Horizon webpage"
 Write-Host "Optie 3 : Disk-Status"
